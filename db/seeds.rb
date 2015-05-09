@@ -12,7 +12,7 @@ Product.create!(title: 'Programming Ruby 1.9 & 2.0',
 #...
 
 #...
-Product.create!(title: 'Programming Ruby 1.9 & 2.0',
+Product.create!(title: 'Programming Rails',
   description:
     %{<p>
         Ruby is the fastest growing and most exciting dynmaic language
@@ -24,7 +24,7 @@ Product.create!(title: 'Programming Ruby 1.9 & 2.0',
 #...
 
 #...
-Product.create!(title: 'Programming Ruby 1.9 & 2.0',
+Product.create!(title: 'Programming PHP',
   description:
     %{<p>
         Ruby is the fastest growing and most exciting dynmaic language
@@ -36,7 +36,7 @@ Product.create!(title: 'Programming Ruby 1.9 & 2.0',
 #...
 
 #...
-Product.create!(title: 'Programming Ruby 1.9 & 2.0',
+Product.create!(title: 'Programming Java',
   description:
     %{<p>
         Ruby is the fastest growing and most exciting dynmaic language
